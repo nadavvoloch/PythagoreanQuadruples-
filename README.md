@@ -1,1 +1,1 @@
-##Just run and put how many quadruples you want!
+Just run and put how many quadruples you want!
